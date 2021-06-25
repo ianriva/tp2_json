@@ -1,0 +1,10 @@
+G:\Apuntes Universidad\4to Semestre\Laboratorio 4\Trabajo Practico 2\ParteA_TP2_CSharp\ParteA_TP2\bin\Debug\ParteA_TP2.exe.config
+G:\Apuntes Universidad\4to Semestre\Laboratorio 4\Trabajo Practico 2\ParteA_TP2_CSharp\ParteA_TP2\bin\Debug\ParteA_TP2.exe
+G:\Apuntes Universidad\4to Semestre\Laboratorio 4\Trabajo Practico 2\ParteA_TP2_CSharp\ParteA_TP2\bin\Debug\ParteA_TP2.pdb
+G:\Apuntes Universidad\4to Semestre\Laboratorio 4\Trabajo Practico 2\ParteA_TP2_CSharp\ParteA_TP2\bin\Debug\Newtonsoft.Json.dll
+G:\Apuntes Universidad\4to Semestre\Laboratorio 4\Trabajo Practico 2\ParteA_TP2_CSharp\ParteA_TP2\bin\Debug\Newtonsoft.Json.xml
+G:\Apuntes Universidad\4to Semestre\Laboratorio 4\Trabajo Practico 2\ParteA_TP2_CSharp\ParteA_TP2\obj\Debug\ParteA_TP2_CSharp.csprojAssemblyReference.cache
+G:\Apuntes Universidad\4to Semestre\Laboratorio 4\Trabajo Practico 2\ParteA_TP2_CSharp\ParteA_TP2\obj\Debug\ParteA_TP2_CSharp.csproj.CoreCompileInputs.cache
+G:\Apuntes Universidad\4to Semestre\Laboratorio 4\Trabajo Practico 2\ParteA_TP2_CSharp\ParteA_TP2\obj\Debug\ParteA_TP2_CSharp.csproj.CopyComplete
+G:\Apuntes Universidad\4to Semestre\Laboratorio 4\Trabajo Practico 2\ParteA_TP2_CSharp\ParteA_TP2\obj\Debug\ParteA_TP2.exe
+G:\Apuntes Universidad\4to Semestre\Laboratorio 4\Trabajo Practico 2\ParteA_TP2_CSharp\ParteA_TP2\obj\Debug\ParteA_TP2.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ismael\Documents\Visual Studio Proyects\ParteA_TP2\ParteA_TP2\obj\Debug\ParteA_TP2.csprojAssemblyReference.cache
+C:\Users\Ismael\Documents\Visual Studio Proyects\ParteA_TP2\ParteA_TP2\obj\Debug\ParteA_TP2.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Documents\Visual Studio Proyects\ParteA_TP2\ParteA_TP2\bin\Debug\ParteA_TP2.exe.config
+C:\Users\Ismael\Documents\Visual Studio Proyects\ParteA_TP2\ParteA_TP2\bin\Debug\ParteA_TP2.exe
+C:\Users\Ismael\Documents\Visual Studio Proyects\ParteA_TP2\ParteA_TP2\bin\Debug\ParteA_TP2.pdb
+C:\Users\Ismael\Documents\Visual Studio Proyects\ParteA_TP2\ParteA_TP2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ismael\Documents\Visual Studio Proyects\ParteA_TP2\ParteA_TP2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ismael\Documents\Visual Studio Proyects\ParteA_TP2\ParteA_TP2\obj\Debug\ParteA_TP2.csproj.CopyComplete
+C:\Users\Ismael\Documents\Visual Studio Proyects\ParteA_TP2\ParteA_TP2\obj\Debug\ParteA_TP2.exe
+C:\Users\Ismael\Documents\Visual Studio Proyects\ParteA_TP2\ParteA_TP2\obj\Debug\ParteA_TP2.pdb
+C:\Users\Ismael\Documents\Visual Studio Proyects\ParteA_TP2\ParteA_TP2\bin\Debug\MySql.Data.dll
